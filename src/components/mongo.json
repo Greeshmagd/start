@@ -1,0 +1,42 @@
+[
+    {
+        "movie":"m1",
+        "catagory":"action ending is tragedy"
+    },
+    {
+        "movie":"m2",
+        "catagory":"emotion ending is action"
+    },
+    {
+    "movie":"m1",
+    "catagory":"action ending is tragedy"
+    },
+    {
+    "movie":"m2",
+    "catagory":"emotion ending is action"
+    },
+    {
+"movie":"m1",
+"catagory":"action ending is tragedy"
+},
+{
+"movie":"m2",
+"catagory":"emotion ending is action"
+},
+{
+"movie":"m1",
+"catagory":"action ending is tragedy"
+},
+{
+"movie":"m2",
+"catagory":"emotion ending is action"
+},
+{
+"movie":"m1",
+"catagory":"action ending is tragedy"
+},
+{
+"movie":"m2",
+"catagory":"emotion ending is action"
+}
+]
